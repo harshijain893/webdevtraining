@@ -1,0 +1,10 @@
+.centre
+{
+    border:20px solid red;
+    margin:50px 50px 45px 45px;
+    /* margin:auto; */
+    border-radius: 50px;
+    text-align:center;
+    
+
+}
